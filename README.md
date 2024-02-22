@@ -10,9 +10,9 @@ Welcome to Zambia Travels Temperature Converter! This simple Python program help
 ## Usage
 1. Run the program by executing the Python script.
 2. Follow the on-screen instructions:
-   - Press '1' to convert from Celsius to Fahrenheit.
-   - Press '2' to convert from Fahrenheit to Celsius.
-   - Press '0' to exit the program.
+   - Press `1` to convert from Celsius to Fahrenheit.
+   - Press `2` to convert from Fahrenheit to Celsius.
+   - Press `0` to exit the program.
 3. Enter the temperature value when prompted.
 4. View the converted temperature.
 
